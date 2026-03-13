@@ -7,11 +7,10 @@ state = {
 	history = {
 		owner = PAL
 		add_core_of = PAL
-		add_core_of = TUR
-		add_core_of = SYR
+
 		add_to_array = { state_victory_points = 1086 }
 		add_to_array = { state_victory_points = 4206 }
-		set_demilitarized_zone = yes
+		set_demilitarized_zone = no
 
 		buildings = {
 			infrastructure = 1
@@ -25,7 +24,7 @@ state = {
 	}
 
 	provinces = {
-		1015 1086 1201 4088 4206 7176 11970
+		1086 1201 4088 4206 7176 11970
 	}
 }
 

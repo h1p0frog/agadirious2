@@ -1,0 +1,27 @@
+state={
+	id=1125
+	name="STATE_1125"
+	provinces={
+	    6864 6912 9799 9887 11778
+	}
+
+	history ={
+	    owner = GRE
+	    add_core_of = GRE
+	    add_core_of = TUR
+	    add_to_array = { state_victory_points = 6864 }
+	    victory_points = { 6864 1 } #Çanakkale
+	    buildings={
+	        6912 = {
+        				naval_base = 1
+        			}
+	    }
+
+	}
+	manpower=0
+	#idk the manpower
+	buildings_max_level_factor=1
+	local_supplies=0
+
+
+}

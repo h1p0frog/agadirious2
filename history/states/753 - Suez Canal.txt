@@ -5,10 +5,9 @@ state = {
 	state_category = major_port
 
 	history = {
-		owner = PAL
-		add_core_of = PAL
+		owner = ENG
 		add_core_of = EGY
-		add_claim_by = TUR
+
 		add_to_array = { state_victory_points = 4073 }
 		add_to_array = { state_victory_points = 12049 }
 
@@ -22,7 +21,7 @@ state = {
 				naval_base = 2
 			}
 		}
-		set_demilitarized_zone = yes
+		set_demilitarized_zone = no
 		victory_points = { 4073 3 }
 		victory_points = { 12049 5 }
 	}
