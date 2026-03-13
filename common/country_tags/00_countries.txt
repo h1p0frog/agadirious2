@@ -18,6 +18,7 @@ SWI = "countries/WestEur.txt"
 GER = "countries/WestEur.txt"
 AUS = "countries/WestEur.txt"
 CZE = "countries/WestEur.txt"
-POL = "countries/EastEur.txt"
-SLV = "countries/EastEur.txt"
-LUX = "countries/WestEur.txt"
+
+#Hi BMC
+GRE = "countries/Greece.txt"
+PAL = "countries/Palestine.txt"
