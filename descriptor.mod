@@ -3,5 +3,8 @@ tags={
 	"Alternative History"
 }
 name="Agadirious"
-path="mod/agadirious"
+replace_path="history/states"
+replace_path="common/scripted_effects"
+replace_path="map"
+path="mod/agadirious-main"
 supported_version="1.17.*"
